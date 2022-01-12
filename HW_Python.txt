@@ -1,0 +1,49 @@
+1) Создать переменную типа String
+a = 'Regina'
+print(type(a), a)
+
+2) Создать переменную типа Integer
+age = 23
+print(type(age), age)
+
+3) Создать переменную типа Float
+c = 1.57
+print(type(c), c)
+
+4) Создать переменную типа Bytes
+b = 8
+print(type(b), b)
+
+5) Создать переменную типа List
+shop = ['milk', 'fish', 'cucumbers', 'bananas']
+print(type(shop), shop)
+
+6) Создать переменную типа Tuple
+information = ('name', 'surname', 'age')
+print(type(information), information)
+
+7) Создать переменную типа Set
+country = set(['Russia', 'Germany', 'China'])
+print(type(country), country)
+
+8. Создать переменную типа Frozen set
+pets = frozenset(['d', 'g', 'd'])
+print(type(pets), pets)
+
+9) Создать переменную типа Dict
+ab = {'Jess': 19, 'Peter': 22, 'Andrew': 25}
+print(type(ab), ab)
+
+10) Вывести в консоль все выше перечисленные переменные с добавлением типа данных.
+
+11) Создать 2 переменные String, создать переменную в которой сканкатенируете эти переменные. Вывести в консоль.
+str1 = 2
+str2 = 3
+str3 = str1 + str2
+print (str3)
+
+12) Вывести в одну строку переменные типа String и Integer используя “,” (Запятую)
+print (a, age)
+
+
+

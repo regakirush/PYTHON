@@ -23,8 +23,8 @@ print (result_s_root)
 result_s_m_root = sqrt (item_1)
 print (result_s_m_root)
 
-#17
-#18
+#17 editing
+#18 editing
 
 item_1 = 145
 item_2 = 20

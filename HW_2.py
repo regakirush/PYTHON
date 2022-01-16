@@ -67,9 +67,6 @@ print (item_3)
 item_3 **= .5
 print (item_3)
 
-#46 editing
-#47 editing
-
 ################################################
 
 b_item_t = True

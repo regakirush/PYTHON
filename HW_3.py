@@ -65,3 +65,25 @@ div_int = int_item / 2
 #  Сделать if в котором будет условие: если div_int меньше comp_item, то вывести в консоль (“Переменная div_int меньше”, comp_item)
 if div_int < comp_item:
      print ('div_int <', comp_item)
+
+# Создать переменную item_1 в которй прибавить 10 к переменной int_item
+item_1 = int_item + 10
+
+# Сделать if в котором будет условие: если item_1 меньше comp_item, то вывести в консоль (“Переменная item_1 меньше”, comp_item), иначе, вывести в консоль (“Переменная item_1 больше или равна”, comp_item)
+if item_1 < comp_item:
+    print ("inem_1 <", comp_item)
+else:
+    print ("item_1 >=", comp_item)
+
+# Сделать if в котором будет условие: если item_2, то вывести в консоль (“Переменная item_2 = ”, item_2), иначе, вывести в консоль (“Переменная item_2 = ”, item_3)
+if item_2:
+    print ("item_2 =", item_2)
+else:
+    print ('item_2 =', item_3)
+
+# Сделать if в котором будет условие: если item_3, то вывести в консоль (“Переменная item_3 = ”, item_2), иначе, вывести в консоль (“Переменная item_3 = ”, item_3)
+if item_3:
+    print ('iyem_3 =', item_2)
+else:
+    print ("item_3 = ", item_3)
+    

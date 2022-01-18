@@ -55,3 +55,13 @@ byn_item = 'byn'
 # Создать переменную usd_byn_rate со значением 2.46
 usd_byn_rate = 2.46
 
+# Сделать if в котором будет  условие: если mult_int больше comp_item, то вывести в консоль(“Переменная mult_int больше”, comp_item)
+if mult_int > comp_item:
+    print ("mult_int >", comp_item)
+
+# Создать переменную div_int в которй разделить int_item на 2
+div_int = int_item / 2
+
+#  Сделать if в котором будет условие: если div_int меньше comp_item, то вывести в консоль (“Переменная div_int меньше”, comp_item)
+if div_int < comp_item:
+     print ('div_int <', comp_item)
